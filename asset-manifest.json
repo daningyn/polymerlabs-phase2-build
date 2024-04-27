@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.ed15138a.css",
-    "main.js": "./static/js/main.612cf33c.js",
+    "main.css": "./static/css/main.7b2a396a.css",
+    "main.js": "./static/js/main.59cf376d.js",
+    "static/js/8206.84106d74.chunk.js": "./static/js/8206.84106d74.chunk.js",
     "static/js/7030.93546614.chunk.js": "./static/js/7030.93546614.chunk.js",
     "static/js/8913.b27beedc.chunk.js": "./static/js/8913.b27beedc.chunk.js",
     "static/js/3871.86f9b24e.chunk.js": "./static/js/3871.86f9b24e.chunk.js",
@@ -55,7 +56,6 @@
     "static/js/8013.0010d75b.chunk.js": "./static/js/8013.0010d75b.chunk.js",
     "static/js/9432.bf1ca441.chunk.js": "./static/js/9432.bf1ca441.chunk.js",
     "static/js/7446.fe319741.chunk.js": "./static/js/7446.fe319741.chunk.js",
-    "static/js/8206.84106d74.chunk.js": "./static/js/8206.84106d74.chunk.js",
     "static/js/1164.10660405.chunk.js": "./static/js/1164.10660405.chunk.js",
     "static/js/3144.f8f184b2.chunk.js": "./static/js/3144.f8f184b2.chunk.js",
     "static/js/4348.e9135fdb.chunk.js": "./static/js/4348.e9135fdb.chunk.js",
@@ -76,11 +76,12 @@
     "static/media/NFT3.webp": "./static/media/NFT3.8ef226bd96dde22e9591.webp",
     "static/media/NFT2.webp": "./static/media/NFT2.ecb18434f164b69db171.webp",
     "static/media/NFT1.webp": "./static/media/NFT1.4c2a074f237d6de6e919.webp",
+    "static/media/maintaining.png": "./static/media/maintaining.54c23b9a99f47c9cc8e8.png",
     "static/media/mobile.png": "./static/media/mobile.70740004ae10e3e04ad8.png",
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.ed15138a.css",
-    "static/js/main.612cf33c.js"
+    "static/css/main.7b2a396a.css",
+    "static/js/main.59cf376d.js"
   ]
 }
