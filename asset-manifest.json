@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.8271be82.css",
-    "main.js": "./static/js/main.65676cf5.js",
+    "main.js": "./static/js/main.f48c8ee3.js",
     "static/js/7030.93546614.chunk.js": "./static/js/7030.93546614.chunk.js",
     "static/js/8913.b27beedc.chunk.js": "./static/js/8913.b27beedc.chunk.js",
     "static/js/3871.86f9b24e.chunk.js": "./static/js/3871.86f9b24e.chunk.js",
@@ -60,8 +60,8 @@
     "static/js/3144.f8f184b2.chunk.js": "./static/js/3144.f8f184b2.chunk.js",
     "static/js/4348.e9135fdb.chunk.js": "./static/js/4348.e9135fdb.chunk.js",
     "static/js/2777.7645ef8f.chunk.js": "./static/js/2777.7645ef8f.chunk.js",
-    "static/js/2267.b051dfdb.chunk.js": "./static/js/2267.b051dfdb.chunk.js",
-    "static/js/2268.f8f2d91f.chunk.js": "./static/js/2268.f8f2d91f.chunk.js",
+    "static/js/2267.381697d1.chunk.js": "./static/js/2267.381697d1.chunk.js",
+    "static/js/2268.ed9fb25b.chunk.js": "./static/js/2268.ed9fb25b.chunk.js",
     "static/media/a5.png": "./static/media/a5.cb47790d54e15b1cd3ec.png",
     "static/media/a8.png": "./static/media/a8.aa6f627640749190e0d8.png",
     "static/media/NFT4.png": "./static/media/NFT4.6996a0bfe256a53e112e.png",
@@ -82,6 +82,6 @@
   },
   "entrypoints": [
     "static/css/main.8271be82.css",
-    "static/js/main.65676cf5.js"
+    "static/js/main.f48c8ee3.js"
   ]
 }
